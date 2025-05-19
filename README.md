@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  <sub>Built with ❤️ and ☕ in Toronto &nbsp;|&nbsp; Last updated: 2025‑05‑15</sub>
+  <sub>Built with ❤️ and ☕ &nbsp;|&nbsp; Last updated: 2025‑05‑15</sub>
 </p>
