@@ -32,7 +32,7 @@
 ### 📫 Connect
 - Email: tavasoli@umich.edu
 - LinkedIn: [linkedin.com/in/mohammadreza-tavasoli-naeini-88baa992](https://www.linkedin.com/in/mohammadreza-tavasoli-naeini-88baa992/)
-- Google Scholar: [scholar profile]([https://scholar.google.com/](https://scholar.google.ca/citations?user=b4frolwAAAAJ&hl=en](https://scholar.google.ca/citations?user=b4frolwAAAAJ&hl=en&oi=ao))
+- Google Scholar: [scholar profile](https://scholar.google.ca/citations?user=b4frolwAAAAJ&hl=en](https://scholar.google.ca/citations?user=b4frolwAAAAJ&hl=en&oi=ao)
 
 ---
 
