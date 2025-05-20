@@ -17,7 +17,7 @@
 |------|--------------|----------|
 | [`bolt-loss`](https://github.com/MohammadrezaTavasoli/bolt-loss) | Reference code for “Bayes Optimal Learning Threshold (BOLT) Loss” – plug-and-play loss to tighten Bayes error bounds in classifiers & GANs. | PyTorch Lightning • Hydra • W&B |
 | [`quantum-lstm`](https://github.com/MohammadrezaTavasoli/Quantum-LSTM/tree/master/examples/quantum_lstm) | Hybrid Quantum-Classical LSTM built with Torch-Quantum | Torch-Quantum • Qiskit |
-| [`quantum-transformer`](https://github.com/MohammadrezaTavasoli/Quantum-Transformer) | Hybrid Quantum-Classical Transformer implemented with Torch-Quantum| Torch-Quantum • Qiskit |
+| [`quantum-transformer`](https://github.com/MohammadrezaTavasoli/Quantum-LSTM/tree/master/examples/Quantum-Transformer) | Hybrid Quantum-Classical Transformer implemented with Torch-Quantum| Torch-Quantum • Qiskit |
 
 
 ### 🛠 Tech toolbox
